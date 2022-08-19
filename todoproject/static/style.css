@@ -1,0 +1,12 @@
+.banner{
+background-color:yellowgreen;
+margin-bottom:50px;
+height:110px;
+}
+
+.banner-text{
+top:40%;
+left:45%;
+position:absolute;
+transform:transform;
+}
